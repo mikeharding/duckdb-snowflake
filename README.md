@@ -1,3 +1,3 @@
 # duckdb-snowflake
 
-Use DuckDB to load csv files and detect schema, push tables into Snowflake using Arrow format.
+Use DuckDB to load csv files locally and detect schema, then push tables into Snowflake using Arrow format.
